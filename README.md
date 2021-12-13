@@ -1,2 +1,3 @@
-# Climate change and Global Temperature Analisys
+# Climate change and Global Temperature Analysis
 * This Project uses Data Science for Analyzing the Global Temperature and Climate change, Started December 2021.
+** Completing...
